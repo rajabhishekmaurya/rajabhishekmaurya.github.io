@@ -25,13 +25,13 @@ $(document).ready(function() {
         $('.menu-btn i').toggleClass("active");
     });
     var typed = new Typed(".typing", {
-        strings: ["YouTuber", "Web Developer", "Cryptographer"],
+        strings: ["Programmer", "Web Developer", "Cryptographer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
     var typed = new Typed(".typing-2", {
-        strings: ["YouTuber", "Web Developer", "Cryptographer"],
+        strings: ["Programmer", "Web Developer", "Cryptographer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
