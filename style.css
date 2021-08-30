@@ -240,7 +240,7 @@ section .title::after {
 }
 
 .about .title::after {
-    content: "who i am"
+    content: "who I am"
 }
 
 .about .about-content .left {
@@ -304,7 +304,7 @@ section .title::after {
 .services .title::after,
 .teams .title::after {
     background: #111;
-    content: "what i provide"
+    content: "what I provide"
 }
 
 .services .serv-content .card {
@@ -346,7 +346,7 @@ section .title::after {
 }
 
 .skills .title::after {
-    content: "what i know"
+    content: "what I know"
 }
 
 .skills .skills-content .column {
@@ -414,7 +414,7 @@ section .title::after {
 }
 
 .skills-content .right .html::before {
-    width: 90%
+    width: 80%
 }
 
 .skills-content .right .css::before {
@@ -422,15 +422,15 @@ section .title::after {
 }
 
 .skills-content .right .js::before {
-    width: 80%
+    width: 30%
 }
 
-.skills-content .right .php::before {
-    width: 50%
+.skills-content .right .cryptography::before {
+    width: 40%
 }
 
-.skills-content .right .mysql::before {
-    width: 70%
+.skills-content .right .c::before {
+    width: 60%
 }
 
 .teams .title::after {
